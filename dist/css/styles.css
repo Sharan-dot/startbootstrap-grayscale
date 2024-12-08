@@ -11201,3 +11201,11 @@ body {
 .footer {
   padding: 5rem 0;
 }
+.custom-bg {
+    background-image: url('assets/img/projects-bg.jpg'); /* Update the path as needed */
+    background-size: cover; /* Ensures the background covers the entire section */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents tiling of the background image */
+    color: white; /* Ensures text is readable */
+    padding: 50px 0; /* Adds spacing for better layout */
+}
